@@ -1,4 +1,4 @@
-# Breast Cancer Diagnosis using Machine Learning  
+# Breast Cancer Diagnosis  
 
 ## Aim  
 To develop a breast cancer diagnosis system using machine learning models for accurate classification of malignant and benign tumors.  
